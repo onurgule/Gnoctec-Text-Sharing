@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "Gnoctec - Veri Aktarımı",
+   "icon": "./img/ic.png",
+   "version": "1.0.0",
+   "slug": "gnoctec",
+   "orientation": "portrait",
+   "sdkVersion": "23.0.0",
+   "ios": {
+     "bundleIdentifier": "onurgule.gnoctec"
+   },
+   "android": {
+     "package": "onurgule.gnoctec"
+   }
+  }
+}
